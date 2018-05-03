@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.Invisible {
+  color: #76FF7A;
+  width: 1vw;
+  background: #76FF7A;
+  text-decoration: none;
+}
+
+.Black {
+  background: black;
+  color: white;
+}
+
+.Screen {
+  height: 80vh;
+}
